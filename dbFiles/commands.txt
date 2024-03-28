@@ -1,0 +1,21 @@
+    1  nodemon server.js 
+    2  nodemon server.js 
+    3  nodemon server.js 
+    4  mkdir dbFiles
+    5  cd dbFiles/
+    6  touch dbConfig.js dbOperation.js
+    7  npm start server
+    8  npm start server
+    9  npm run server
+   10  npm run server
+   11  npm run server
+   12  npm run server
+   13  npm run server
+   14  history 
+   15  touch commands.txt
+   16  history > ./commands.txt 
+
+In cmd
+   sqlcmd -S DESKTOP-LT\SQLEXPRESS
+   1> use Northwind                                                                                        
+   2> go
